@@ -1,0 +1,9 @@
+# LOGUP - A log management utility with encryption.
+
+This use sha512 encryption algorithm to encrypt data logs.
+
+## Table of Contents
+
+## Usage
+
+Logup 
